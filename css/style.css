@@ -669,6 +669,7 @@ h2 small {font-size: 42px;}
 .lt-ie9 .intro-blocks.vs-intro .tile.open .intro-title .inner{visibility:hidden;}
 .a-icon {
     font-size: 72px;
+    width:75%;
     padding: 20px 0 0;
 	position:relative;
 	color:#ff6f40;
